@@ -1,13 +1,13 @@
 package shelter;
 
-import shelter.Description;
-import shelter.Sort;
-import shelter.Speakable;
+import lombok.*;
 
 @Description(value = "В мире животных")
+@Getter
+@Setter
 public class Cat extends Animal implements Speakable {
 
-    Sort sort;
+    private Sort sort;
 
     //Перегрузка -> методы с одним названием, но разной сигнатурой
     public void seatOnHands() {
@@ -48,14 +48,6 @@ public class Cat extends Animal implements Speakable {
         } else {
             System.out.println("РРРРР");
         }
-    }
-
-    public Sort getSort() {
-        return sort;
-    }
-
-    public void setSort(Sort sort) {
-        this.sort = sort;
     }
 
     public Cat(int weight, String name, int age) {

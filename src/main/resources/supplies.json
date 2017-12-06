@@ -1,0 +1,112 @@
+[
+  {
+    "id": 752,
+    "debtorName": "ЗАО \"Торговый дом \"ПЕРЕКРЕСТОК\"",
+    "supplyNumber": "5757117615",
+    "supplyReceiptDate": "2017-10-10",
+    "supplyAmount": 52.41,
+    "status": {
+      "code": "CLOSED",
+      "description": "Завершено"
+    }
+  },
+  {
+    "id": 751,
+    "debtorName": "ЗАО \"Яндекс\"",
+    "supplyNumber": "5757117611",
+    "supplyReceiptDate": "2017-10-11",
+    "supplyAmount": 467.00,
+    "status": {
+      "code": "CLOSED",
+      "description": "Завершено"
+    }
+  },
+  {
+    "id": 710,
+    "debtorName": "ЗАО \"Торговый дом \"ПЕРЕКРЕСТОК\"",
+    "supplyNumber": "5757077462",
+    "supplyReceiptDate": "2017-09-25",
+    "supplyAmount": 52071.41,
+    "status": {
+      "code": "FINANCING_REQUESTED",
+      "description": "Запрошено финансирование"
+    }
+  },
+  {
+    "id": 709,
+    "debtorName": "ЗАО \"Моя охрененная компания\"",
+    "supplyNumber": "5757077461",
+    "supplyReceiptDate": "2017-08-25",
+    "supplyAmount": 50000.00,
+    "status": {
+      "code": "CLOSED",
+      "description": "Завершено"
+    }
+  },
+  {
+    "id": 707,
+    "debtorName": "АО \"Альфа-Банк\"",
+    "supplyNumber": "5757077460",
+    "supplyReceiptDate": "2017-05-16",
+    "supplyAmount": 1000.00,
+    "status": {
+      "code": "CLOSED",
+      "description": "Завершено"
+    }
+  },
+  {
+    "id": 705,
+    "debtorName": "АО \"Альфа-Банк\"",
+    "supplyNumber": "5757077463",
+    "supplyReceiptDate": "2017-01-30",
+    "supplyAmount": 913.87,
+    "status": {
+      "code": "CLOSED",
+      "description": "Завершено"
+    }
+  },
+  {
+    "id": 703,
+    "debtorName": "СБЕРБАНК",
+    "supplyNumber": "5757077464",
+    "supplyReceiptDate": "2017-02-28",
+    "supplyAmount": 1500.83,
+    "status": {
+      "code": "FINANCING_REQUESTED",
+      "description": "Запрошено финансирование"
+    }
+  },
+  {
+    "id": 689,
+    "debtorName": "СБЕРБАНК",
+    "supplyNumber": "5757077465",
+    "supplyReceiptDate": "2017-08-02",
+    "supplyAmount": 376.80,
+    "status": {
+      "code": "FINANCING_REQUESTED",
+      "description": "Запрошено финансирование"
+    }
+  },
+  {
+    "id": 685,
+    "debtorName": "ЗАО \"Торговый дом \"ПЕРЕКРЕСТОК\"",
+    "supplyNumber": "5757077457",
+    "supplyReceiptDate": "2017-07-26",
+    "supplyAmount": 105.25,
+    "status": {
+      "code": "FINANCING_REQUESTED",
+      "description": "Запрошено финансирование"
+    }
+  },
+  {
+    "id": 678,
+    "debtorName": "АО \"КОТИКИ\"",
+    "supplyNumber": "5757076298",
+    "supplyReceiptDate": "2017-09-11",
+    "supplyAmount": 50602.44,
+    "status": {
+      "code": "FINANCING",
+      "description": "Профинансировано"
+    }
+  }
+]

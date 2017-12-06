@@ -1,7 +1,5 @@
 package shelter;
 
-import shelter.Speakable;
-
 public class Dog extends Animal implements Speakable {
 
     public Dog(int weight, String name, int age) {
